@@ -1,0 +1,5 @@
+SELECT * FROM Album;
+
+SELECT * FROM Artist;
+
+SELECT * FROM Genre;
